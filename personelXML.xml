@@ -1,0 +1,14 @@
+<Employee>
+    <ID>0405</ID>
+    <Name>Luke Skywalker</Name>
+    <Age>28</Age>
+    <Email>luke.skywalker@example.com</Email>
+    <Phone>+90 345 678 9012</Phone>
+    <Department>Jedi Training</Department>
+    <Address>
+        <Street>Tatooine, Lars Homestead</Street>
+        <City>Anchorhead</City>
+        <PostalCode>12345</PostalCode>
+        <Country>Outer Rim</Country>
+    </Address>
+</Employee>
